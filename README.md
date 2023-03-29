@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![yuta-sksn's GitHub status](https://github-readme-stats.vercel.app/api?username=yuta-sksn&count_private=true&show_icons=true&theme=dracula&hide=contribs)<br>
+![yuta-sksn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-sksn&theme=dracula)
