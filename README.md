@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/yuta-sksn/yuta-sksn/blob/main/kabushima-sunset.jpg?raw=true" />
+  <img src="https://github.com/yuta-sksn/yuta-sksn/blob/main/tf-banner.jpg?raw=true" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
